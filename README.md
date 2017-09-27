@@ -3,7 +3,7 @@
 A comparitive study of Cloud Service Providers: AWS, Azure and Google Cloud
 
 ## Index
-[1. Compute (AWS, Azure, Google Cloud)][1]
+1. [Compute (AWS, Azure, Google Cloud)](#example)
 2. Storage and Databases(AWS, Azure, Google Cloud)
 3. Network and Content Delivery(AWS, Azure, Google Cloud)
 4. AI/ML/Cognitive Services(AWS, Azure, Google Cloud)
@@ -28,7 +28,7 @@ A comparitive study of Cloud Service Providers: AWS, Azure and Google Cloud
 - API Platform and Ecosystems (Google Cloud)      
 
 #### Comparision
-[1]: Compute:
+## Compute (AWS, Azure, Google Cloud)
 
 ##### References:
 1. https://aws.amazon.com/products/
