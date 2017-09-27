@@ -28,6 +28,17 @@ A comparitive study of Cloud Service Providers: AWS, Azure and Google Cloud
 - API Platform and Ecosystems (Google Cloud)      
 
 ## Compute (AWS, Azure, Google Cloud) <a name="compute"></a>
+a. EC2/VM/CM: Virtual server provisioning with CPU, RAM, OS. 
+ - Amazon Web Services Elastic Compute Cloud 
+ - Azure Virtual Machine 
+ - Google Cloud Machine
+
+b. Lambda/Azure/Cloud Functions
+  - AWS Lambda Functions
+  - Azure Functions
+  - Cloud Functions
+
+
 ## Storage and Databases(AWS, Azure, Google Cloud) <a name="databases"></a>
 ## Network and Content Delivery(AWS, Azure, Google Cloud) <a name="network"></a>
 ## AI/ML/Cognitive Services(AWS, Azure, Google Cloud) <a name="ai"></a>
