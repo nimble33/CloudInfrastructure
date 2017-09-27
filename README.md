@@ -4,15 +4,15 @@ A comparitive study of Cloud Service Providers: AWS, Azure and Google Cloud
 
 ## Index
 1. [Compute (AWS, Azure, Google Cloud)](#compute)
-2. Storage and Databases(AWS, Azure, Google Cloud)
-3. Network and Content Delivery(AWS, Azure, Google Cloud)
-4. AI/ML/Cognitive Services(AWS, Azure, Google Cloud)
-5. Developer Tools (AWS, Azure, Google Cloud)
-6. Management/Monitoring Tools (AWS, Azure, Google Cloud)
-7. Security, Identity and Compliance(AWS, Azure, Google Cloud)
-8. Internet of Things(AWS, Azure, Google Cloud)
-9. Analytics(AWS, Azure)
-10. Mobile(AWS, Azure)
+2. [Storage and Databases(AWS, Azure, Google Cloud)](#databases)
+3. [Network and Content Delivery(AWS, Azure, Google Cloud)](#network)
+4. [AI/ML/Cognitive Services(AWS, Azure, Google Cloud)](#ai)
+5. [Developer Tools (AWS, Azure, Google Cloud)](#devtools)
+6. [Management/Monitoring Tools (AWS, Azure, Google Cloud)](#management)
+7. [Security, Identity and Compliance(AWS, Azure, Google Cloud)](#security)
+8. [Internet of Things(AWS, Azure, Google Cloud)](#iot)
+9. [Analytics(AWS, Azure)](#analytics)
+10.[Mobile(AWS, Azure)](#mobile)
 
 ### TODO - Classify
 - Migration(AWS)
@@ -27,7 +27,18 @@ A comparitive study of Cloud Service Providers: AWS, Azure and Google Cloud
 - Big Data (Google Cloud)
 - API Platform and Ecosystems (Google Cloud)      
 
+#### Comparision
+
 ## Compute (AWS, Azure, Google Cloud) <a name="compute"></a>
+## Storage and Databases(AWS, Azure, Google Cloud) <a name="databases"></a>
+## Network and Content Delivery(AWS, Azure, Google Cloud) <a name="network"></a>
+## AI/ML/Cognitive Services(AWS, Azure, Google Cloud) <a name="ai"></a>
+## Developer Tools (AWS, Azure, Google Cloud) <a name="devtools"></a>
+## Management/Monitoring Tools (AWS, Azure, Google Cloud) <a name="management"></a>
+## Security, Identity and Compliance(AWS, Azure, Google Cloud) <a name="security"></a>
+## Internet of Things(AWS, Azure, Google Cloud) <a name="iot"></a>
+## Analytics(AWS, Azure) <a name="analytics"></a>
+## Mobile(AWS, Azure) <a name="mobile"></a>
 
 ##### References:
 1. https://aws.amazon.com/products/
