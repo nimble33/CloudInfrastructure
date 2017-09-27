@@ -27,8 +27,6 @@ A comparitive study of Cloud Service Providers: AWS, Azure and Google Cloud
 - Big Data (Google Cloud)
 - API Platform and Ecosystems (Google Cloud)      
 
-#### Comparision
-
 ## Compute (AWS, Azure, Google Cloud) <a name="compute"></a>
 ## Storage and Databases(AWS, Azure, Google Cloud) <a name="databases"></a>
 ## Network and Content Delivery(AWS, Azure, Google Cloud) <a name="network"></a>
