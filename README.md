@@ -1,6 +1,6 @@
-# CloudInfrastructure
+# Cloud Infrastructure
 
-A comparitive study of Cloud Service Providers: AWS, Azure and Google Cloud
+A comparitive study(*WIP*) of Cloud Service Providers: AWS, Azure and Google Cloud
 
 ## Index
 1. [Compute (AWS, Azure, Google Cloud)](#compute)
