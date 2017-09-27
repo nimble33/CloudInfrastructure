@@ -3,54 +3,34 @@
 A comparitive study of Cloud Service Providers: AWS, Azure and Google Cloud
 
 ## Index
-1. Amazon Web Services
-      - Compute
-      - Storage
-      - Database
-      - Migration
-      - Network and Content Delivery
-      - Developer Tools
-      - Management Tools
-      - Security, Identity and Compliance
-      - Analytics
-      - Artificial Intelligence
-      - Mobile Services
-      - Application Services
-      - Messaging
-      - Business Productivity
-      - Desktop and App Streaming
-      - Internet of Things
-      - Contact Center
-      - Game Development
-2. Windows Azure
-      - Compute
-      - Networking
-      - Storage
-      - Web+Mobile
-      - Containers
-      - Databases
-      - Data+Analytics
-      - AI+Cognitive Services
-      - Internet of Things
-      - Enterprise Integration
-      - Security and Identity
-      - Developer Tools
-      - Monitoring and Management
-3. Google Cloud
-      - Compute
-      - Storage and Databases
-      - Networking
-      - Big Data 
-      - Machine Learning
-      - API Platform and Ecosystems
-      - Identity and Security
-      - Management Tools
-      - Developer Tools
-      - Internet of Things
+[1. Compute (AWS, Azure, Google Cloud)][1]
+2. Storage and Databases(AWS, Azure, Google Cloud)
+3. Network and Content Delivery(AWS, Azure, Google Cloud)
+4. AI/ML/Cognitive Services(AWS, Azure, Google Cloud)
+5. Developer Tools (AWS, Azure, Google Cloud)
+6. Management/Monitoring Tools (AWS, Azure, Google Cloud)
+7. Security, Identity and Compliance(AWS, Azure, Google Cloud)
+8. Internet of Things(AWS, Azure, Google Cloud)
+9. Analytics(AWS, Azure)
+10. Mobile(AWS, Azure)
 
-### Comparision
+### TODO - Classify
+- Migration(AWS)
+- Application Services(AWS)
+- Messaging(AWS)
+- Business Productivity(AWS)
+- Desktop and App Streaming(AWS)
+- Contact Center(AWS)
+- Game Development(AWS)
+- Containers(Azure)
+- Enterprise Integration(Azure)
+- Big Data (Google Cloud)
+- API Platform and Ecosystems (Google Cloud)      
 
-#### References:
+#### Comparision
+[1]: Compute:
+
+##### References:
 1. https://aws.amazon.com/products/
 2. https://azure.microsoft.com/en-us/services/
 3. https://cloud.google.com/products/
